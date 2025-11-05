@@ -1,5 +1,5 @@
 # 👾 Rodrigo Haither Regazzo
-🖥️ Developer Back-end.<br>🎓 Graduating Analise de Sistemas e Desenvolvimento pela USCS.<br>📚 Studying: Java
+🖥️ Developer Back-end.<br>🎓 Graduating Analise de Sistemas e Desenvolvimento pela USCS.<br>📚 Studying: Python (Django)
 
 
 # 💻 Tech Stack:
